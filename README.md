@@ -43,6 +43,6 @@
 ---
 
 ## 👁️ Gojo Vibes
-<div align="center">
+<div>
   <img src="https://i.pinimg.com/736x/2b/f7/b0/2bf7b071a9b0f4316cca00772d6973b8.jpg" alt="Gojo Eyes" width="300"/>
 </div>
