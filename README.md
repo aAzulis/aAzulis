@@ -43,5 +43,5 @@
 
 ## 👁️ Gojo Vibes
 <div align="center">
-  <img src="https://tenor.com/view/gojo-gojo-satoru-jjk-op-jjk-specialz-gojo-eyes-gif-8579882986534426391" alt="Gojo Eyes" width="300"/>
+  <img src="https://i.pinimg.com/736x/2b/f7/b0/2bf7b071a9b0f4316cca00772d6973b8.jpg" alt="Gojo Eyes" width="300"/>
 </div>
