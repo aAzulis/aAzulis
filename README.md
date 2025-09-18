@@ -36,7 +36,8 @@
 ## 📊 Stats & Activity
 
 <div align="center">
-  ![GitHub Stats](README-stats.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=aAzulis&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAzulis&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
