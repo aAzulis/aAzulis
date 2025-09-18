@@ -34,6 +34,7 @@
 ---
 
 ## 📊 Stats & Activity
+
 <div align="center">
   ![GitHub Stats](README-stats.svg)
 </div>
